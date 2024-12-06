@@ -22,7 +22,7 @@ Soy **Bachiller en Ingeniería de Sistemas** por la Universidad Nacional del Alt
 
 ### 📈 Estadísticas de GitHub
 
-![William Lupaca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamLupaca&show_icons=true&theme=radical)
+![William Lupaca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=punobootcamper&show_icons=true&theme=radical)
 
 ---
 
