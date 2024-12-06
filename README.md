@@ -94,6 +94,13 @@ Una aplicación en desarrollo para **compartir recetas de cocina y puntuarlas**.
 
 ---
 
+### 🏆 Awards
+🥉 Tercer Lugar en Ingeniería - PEU OSIPTEL XXVII Edición
+Reconocimiento por destacar en el Programa de Extensión Universitaria en Regulación y Telecomunicaciones, demostrando habilidades técnicas y compromiso académico.
+
+🎓 Becario - ProInnóvate, Make It Real
+Seleccionado para el programa Top Full Stack Developer, enfocado en el desarrollo de aplicaciones modernas con tecnologías de vanguardia.
+
 ### 📝 Nota
 
 
