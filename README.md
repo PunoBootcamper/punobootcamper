@@ -28,13 +28,34 @@ Soy **Bachiller en Ingeniería de Sistemas** por la Universidad Nacional del Alt
 
 ### ✨ Proyectos Destacados
 
-1. **[Sistema de Soporte Técnico](https://github.com/WilliamLupaca/soporte-tecnico)**  
-   - 🛠️ Tecnologías: JavaScript, Node.js, Express.
-   - 📄 Descripción: Sistema para la gestión de incidencias técnicas con base de datos.
+#### **Pet Paws**
 
-2. **[Análisis de Redes](https://github.com/WilliamLupaca/analisis-redes)**  
-   - 🛠️ Tecnologías: Python, Power BI.
-   - 📄 Descripción: Herramienta para la monitorización y análisis de redes locales.
+Una aplicación web moderna dedicada a la **adopción de mascotas** y la **búsqueda de animales perdidos**. Conectamos rescatistas, albergues y personas que buscan adoptar o han perdido a sus animales de compañía, facilitando la difusión de casos y creando una comunidad enfocada en darles a los animales un hogar. 
+
+La aplicación permite:
+- Gestión de perfiles de mascotas.
+- Publicaciones relacionadas con ellas.
+- Autenticación de usuarios.
+
+**Categoría** | **Tecnologías**  
+---|---  
+**Frontend** | React, React DOM, React Router DOM, @headlessui/react, Flowbite React, Tailwind CSS, @tremor/react, React Hook Form, Yup, Mapbox GL, Axios, Sonner, i18next, etc.  
+**Backend** | JSON Server (simulado), Socket.io-client  
+**Base de Datos** | JSON Server (archivo JSON como fuente de datos)  
+**Estilo** | Tailwind CSS, Autoprefixer, PostCSS  
+**Testing** | Cypress, eslint-plugin-cypress  
+**Herramientas de Desarrollo** | Vite, ESLint, Prettier, Husky, Lint-staged, Commitlint  
+
+---
+
+#### **Compartiendo Sabores**
+
+Una aplicación en desarrollo para **compartir recetas de cocina y puntuarlas**. El proyecto busca conectar amantes de la cocina con una plataforma para compartir sus creaciones y opiniones.
+
+- **Frontend**: React y TypeScript (Vite).
+- **Backend**: Node.js, MongoDB, Express.
+
+---
 
 ---
 
