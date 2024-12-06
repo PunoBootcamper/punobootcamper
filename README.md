@@ -71,15 +71,6 @@ Una aplicación en desarrollo para **compartir recetas de cocina y puntuarlas**.
 
 ---
 
-### 🏆 Certificaciones y Cursos Relevantes
-
-- **Top Full Stack Developer (2024)** - Make It Real.
-- **Java** - CodeGym (2023 - Actual).
-- **SQL Server Integral** - Full Excel Perú.
-- **Cisco CCNA v7** (Módulos I, II y III) - Cibertec.
-- **Especialización en Ingeniería de Datos** - GEM Educa.
-
----
 
 ### 🌍 Idiomas
 
