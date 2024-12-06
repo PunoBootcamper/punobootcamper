@@ -2,9 +2,12 @@
 
 ### 🌟 Sobre mí
 
-Soy **Bachiller en Ingeniería de Sistemas** por la Universidad Nacional del Altiplano de Puno, con experiencia en **Infraestructura Tecnológica**, **soporte de aplicaciones informáticas** y desarrollo backend. Mi trayectoria profesional incluye soporte técnico y de aplicaciones y mi formación está complementada por certificaciones como:
+¡Hola! Soy **William Lupaca Ticona**, un entusiasta de la tecnología y el desarrollo de software.
 
-- **Becario del Programa Top Full Stack Developer ProInnóvate (2024)**.
+Tengo experiencia en desarrollo backend, gestión de infraestructura tecnológica y soporte técnico, r  ecientemente, he estado explorando el desarrollo web moderno con herramientas como React, Node.js, y Tailwind CSS.
+
+En este espacio, comparto mis proyectos, ideas y experimentos. Si algo aquí llama tu atención o tienes alguna idea genial en mente, ¡me encantaría saber de ti!
+
 
 ---
 
