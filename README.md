@@ -10,13 +10,22 @@ Soy **Bachiller en Ingeniería de Sistemas** por la Universidad Nacional del Alt
 
 ### 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes**: SQL, Java, JavaScript, Python.
+- **Lenguajes**:
+  - SQL,
+  - Java,
+  - JavaScript,
+  - Python.
+- **Frameworks y librerías**
+  - React
+  - Node.js
 - **Herramientas**:
   - Microsoft Power BI.
   - Power Automate.
   - Web Scraping.
+  - PostgreSQL
 - **Otros**:
   - Inteligencia Artificial.
+  - Metodologías Agiles - SCRUM
 
 ---
 
@@ -79,11 +88,9 @@ Una aplicación en desarrollo para **compartir recetas de cocina y puntuarlas**.
 ### 🔗 Encuéntrame en:
 
 - [LinkedIn](https://linkedin.com/in/WilliamLupaca)
-- [GitHub](https://github.com/PunoBootCamper)
 
 ---
 
 ### 📝 Nota
 
-Gracias por visitar mi perfil. Si tienes alguna pregunta o quieres colaborar en un proyecto, ¡no dudes en escribirme! 🚀
 
