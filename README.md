@@ -72,15 +72,14 @@ Una aplicación en desarrollo para **compartir recetas de cocina y puntuarlas**.
 ### 🌍 Idiomas
 
 - **Español**: Nativo.
-- **Inglés**: Intermedio.
+- **Inglés**: Básico.
 
 ---
 
 ### 🔗 Encuéntrame en:
 
 - [LinkedIn](https://linkedin.com/in/WilliamLupaca)
-- [GitHub](https://github.com/WilliamLupaca)
-- 📧 Email: [wlupacat@gmail.com](mailto:wlupacat@gmail.com)
+- [GitHub](https://github.com/PunoBootCamper)
 
 ---
 
